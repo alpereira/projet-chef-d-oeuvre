@@ -1,0 +1,78 @@
+/* zone de drope */
+
+.flexbox .board{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  max-width: 300px;
+  background-color: bisque;
+  padding: 15px;
+  flex-wrap: wrap;
+}
+.flexbox .central_column{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 100%;
+  max-width: 900px;
+  padding: 15px;
+}
+.board-rotor{
+  width: 200px;
+  height: 111px;
+  border: dashed grey;
+  position: relative;
+  top: 109px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.board-pale-top{
+  width: 100px;
+  height: 111px;
+  border: dashed grey;
+
+  position: relative;
+  top: 185px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.board-pale-left{
+  width: 100px;
+  height: 111px;
+  border: dashed grey;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.board-pale-right{
+  width: 100px;
+  height: 111px;
+  border: dashed grey;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pale-zone{
+  width: 402px;
+  justify-content: space-between;
+  margin-bottom: -329px;
+}
+.board-mat{
+  width: 275px;
+  height: 125px;
+  border: dashed grey;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

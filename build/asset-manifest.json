@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef13c5b1.chunk.css",
+    "main.js": "/static/js/main.0bc1b1c4.chunk.js",
+    "main.js.map": "/static/js/main.0bc1b1c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2de8c588.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2de8c588.js.map",
+    "static/css/2.b9b2dd63.chunk.css": "/static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.ee8ffce0.chunk.js": "/static/js/2.ee8ffce0.chunk.js",
+    "static/js/2.ee8ffce0.chunk.js.map": "/static/js/2.ee8ffce0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.00989e9698b33a09196920fa9fb770dc.js": "/precache-manifest.00989e9698b33a09196920fa9fb770dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b9b2dd63.chunk.css.map": "/static/css/2.b9b2dd63.chunk.css.map",
+    "static/css/main.ef13c5b1.chunk.css.map": "/static/css/main.ef13c5b1.chunk.css.map",
+    "static/js/2.ee8ffce0.chunk.js.LICENSE.txt": "/static/js/2.ee8ffce0.chunk.js.LICENSE.txt",
+    "static/media/Sky-media.mp4": "/static/media/Sky-media.c1ad130d.mp4",
+    "static/media/App.css": "/static/media/background.0dda1f20.jpg",
+    "static/media/Game.css": "/static/media/maison-jardin.3528a16d.jpg",
+    "static/media/DraggableElements.css": "/static/media/socle-coupe-2D.90823065.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2de8c588.js",
+    "static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.ee8ffce0.chunk.js",
+    "static/css/main.ef13c5b1.chunk.css",
+    "static/js/main.0bc1b1c4.chunk.js"
+  ]
+}
